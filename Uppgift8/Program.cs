@@ -31,6 +31,7 @@ namespace uppgift8
                 Console.Write(tecken);
             }
             Console.WriteLine();
+            Console.ReadKey();
         }
     }
 }
